@@ -1,6 +1,6 @@
 # Social Distancing Monitoring Application
 
-![social_distance_output](https://github.com/user-attachments/assets/ff87058e-9492-49da-8e50-feb8358f56cc)
+https://github.com/user-attachments/assets/4abdfe15-3864-46f0-8e14-0839ccfd3b18
 
 This project is a Python-based application that leverages computer vision techniques to monitor social distancing in public spaces. By detecting humans in video footage and identifying unsafe distances between them, this application aims to help promote social distancing practices.
 
